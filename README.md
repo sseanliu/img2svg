@@ -74,6 +74,7 @@ cannyEdge/
    - σ=1: More detailed edges
    - σ=2: Smoother, more prominent edges
 5. The SVGs are displayed and available for download
+6. Then you can drag and drop the SVGs into Figma, select all the lines, and change the stroke thickness to 1.
 
 ## API Endpoints
 
