@@ -1,6 +1,7 @@
 # Canny Edge Detection Web App
 
 A web application that performs Canny edge detection on uploaded images and provides downloadable SVG results. Built with Next.js, Python, and shadcn/ui.
+![Alt text]([https://github.com/your-username/your-repo-name/blob/main/path/to/image.png](https://github.com/sseanliu/img2svg/blob/4091ae2ca53e3a29e45d2528524d316c0e2f0d40/cover.png)
 
 ## Demo
 [![Watch the demo](https://img.youtube.com/vi/9q085C0NcjY/0.jpg)](https://youtu.be/9q085C0NcjY)
