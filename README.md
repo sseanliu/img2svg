@@ -2,6 +2,9 @@
 
 A web application that performs Canny edge detection on uploaded images and provides downloadable SVG results. Built with Next.js, Python, and shadcn/ui.
 
+## Demo
+Check out this video: [https://youtu.be/9q085C0NcjY](url)
+
 ## Features
 
 - Upload images via drag-and-drop or file selection
